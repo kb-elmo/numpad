@@ -2,6 +2,9 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+<img src="https://files.elmo.space/kicad_images/numpad-Front.png" alt="drawing" height="400"/>
+<img src="https://files.elmo.space/kicad_images/numpad-Back.png" alt="drawing" height="400"/>
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
